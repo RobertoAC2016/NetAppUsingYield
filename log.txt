@@ -1,0 +1,319 @@
+﻿Actúa como un experto en marketing para que me Puedas proporcionar para un video de youtube del código en cuestión, todo con emojis inglés y español para llegar a programadores globales:
+•	5 ejemplos de títulos más amarillistas y sensacionalistas que me inviten a querer saber más del código en cuestión
+•	una descripción
+•	etiquetas
+•	al final incluye 10 preguntas que podrían responder lectores
+•	todo super optimizado con SEO.
+
+Uso de extensiones de VS Code
+
+¿Quieres DOMINAR Angular, TypeScript y VS Code como un PROFESIONAL? En este video revelo 14 EXTENSIONES PODEROSÍSIMAS que te harán escribir código 3x más rápido , eliminar errores ANTES de compilar y automatizar tareas como un auténtico NINJA DEVELOPER .
+Aprenderás:
+Cómo generar componentes Angular en SEGUNDOS.
+Trucos para importar módulos con un solo CLICK.
+Secretos para depurar errores con COLORES y MENSAJES CLAROS.
+Y mucho más...
+¡No te lo pierdas! Estas herramientas son un MUST-HAVE para freelancers, juniors y seniors.
+
+
+1. Angular Language Service 
+¿Qué es?
+El "santo grial" de Angular en VS Code. Ofrece IntelliSense , validación en tiempo real y autocompletado inteligente para templates.
+¿Para qué?
+Detecta errores en tu HTML de Angular antes de que el navegador lo haga. ¡Adiós, {{ undefined }}!
+¿Cómo usarlo?
+Solo instálalo y ábrelo en proyectos Angular. ¡Las sugerencias aparecerán como por arte de magia! 
+________________________________________
+2. Angular Snippets 
+¿Qué es?
+Snippet = Trozo de código predefinido. Ejemplo: escribes ngc y ¡pum! Un componente listo.
+¿Para qué?
+Ahorra horas escribiendo componentes, servicios, módulos, etc., con atajos como ngif (directiva *ngIf).
+¿Cómo usarlo?
+Escribe el prefijo (ej: ng2) y presiona Tab. ¡Así de fácil! 
+________________________________________
+3. Angular Schematics 
+¿Qué es?
+El "generador mágico" de Angular CLI integrado en VS Code.
+¿Para qué?
+Crea componentes, guards, pipes, y hasta schematics personalizados sin salir del editor.
+¿Cómo usarlo?
+Abre la paleta de comandos (Ctrl+Shift+P), busca "Schematics", y elige qué generar. ¡Automatización pura! 
+________________________________________
+4. Angular 2 Inline Inlining
+¿Qué es?
+Mantiene tus templates y estilos inline (en el mismo archivo) sin caos.
+¿Para qué?
+Evita cambiar entre archivos .component.html y .component.ts. Ideal para componentes pequeños.
+¿Cómo usarlo?
+Al crear un componente, selecciona la opción "inline template/style" en Angular Schematics. 
+________________________________________
+5. Auto Close Tag 
+¿Qué es?
+Cierra automáticamente etiquetas HTML/XML.
+¿Para qué?
+Evita errores como <div> sin cerrar. ¡Esencial para mantener el HTML saludable! 
+¿Cómo usarlo?
+Solo escribe <div> y ¡la extensión añade </div> automáticamente! 
+________________________________________
+6. Auto Import 
+¿Qué es?
+El "buscador de dependencias" automático.
+¿Para qué?
+Añade import de módulos, clases o funciones con un solo clic. ¡Nunca más olvides una importación!
+¿Cómo usarlo?
+Escribe el nombre de una clase (ej: HttpClient) y presiona Ctrl+. para importar. 
+________________________________________
+7. Auto Rename Tag 
+¿Qué es?
+Renombra etiquetas HTML/XML en pares.
+¿Para qué?
+Si cambias <div> a <span>, ¡la etiqueta de cierre se actualiza sola!
+¿Cómo usarlo?
+Edita una etiqueta de apertura y la de cierre se sincroniza. ¡Magia! 
+________________________________________
+8. Error Lens 
+¿Qué es?
+El "linting en esteroides". Resalta errores en la misma línea con colores impactantes.
+¿Para qué?
+Nunca ignores un error. ¡Los warnings saltan a la vista como carteles luminosos! 
+¿Cómo usarlo?
+Los errores se muestran en tiempo real. ¡No necesitas hacer nada! 
+________________________________________
+9. Paste JSON as Code 
+¿Qué es?
+Convierte JSON en interfaces TypeScript o clases.
+¿Para qué?
+Si recibes un JSON de una API, pégalo y obtén una interfaz lista. ¡Adiós, trabajo manual!
+¿Cómo usarlo?
+Copia el JSON, busca "Paste JSON as Code" en la paleta de comandos, y elige el lenguaje. 
+________________________________________
+10. TypeScript Importer 
+¿Qué es?
+Busca y añade imports de TypeScript al instante.
+¿Para qué?
+¿Necesitas importar un servicio? ¡Esta extensión lo encuentra por ti!
+¿Cómo usarlo?
+Escribe el nombre de la clase y presiona Ctrl+Alt+I. ¡Listo! 
+________________________________________
+11. Editor Config 
+¿Qué es?
+Un "contrato de formato" para equipos.
+¿Para qué?
+Mantén consistentes espacios, tabulaciones, y líneas entre desarrolladores.
+¿Cómo usarlo?
+Crea un .editorconfig en tu proyecto. VS Code aplicará las reglas automáticamente. 
+________________________________________
+12. Better Comments 
+¿Qué es?
+Comentarios con colores y categorías.
+¿Para qué?
+Destaca TODOs, alertas, o notas con colores. ¡Los comentarios nunca fueron tan visuales!
+¿Cómo usarlo?
+Escribe // TODO: Esto es importante y ¡aparecerá en color! 
+________________________________________
+13. Tailwind CSS IntelliSense 
+¿Qué es?
+Autocompletado para clases de Tailwind.
+¿Para qué?
+Olvida la documentación. Escribe text- y aparecerán text-red-500, text-center, etc.
+¿Cómo usarlo?
+Solo instálalo. ¡Las sugerencias aparecen mientras escribes! 
+________________________________________
+14. Pretty TypeScript Errors 
+¿Qué es?
+Errores de TypeScript con formato amigable.
+¿Para qué?
+Transforma errores crípticos en explicaciones claras. ¡Entenderás qué rompiste!
+¿Cómo usarlo?
+Los errores se muestran automáticamente en la consola. 
+
+
+
+
+ 
+¡Increíble! 14 Extensiones VS Code que los PROS usan en SECRETO para DOMINAR Angular y TypeScript 🔥🚀
+¡Sorprendente! Estas Extensiones te HARÁN un DEVELOPER 10x más RÁPIDO (Angular, TS, CSS) 🛠️⚡
+¡Revolución! Cómo CONVERTIRTE en un NINJA de VS Code con estas HERRAMIENTAS PROHIBIDAS 🥷💻
+¡No más ERRORES! Las 14 Extensiones que TODO Desarrollador DEBE INSTALAR YA en VS Code 🚫💥
+¡Descubre los SECRETOS OSCUROS de VS Code! Extensiones que los GURÚES usan para CODIFICAR como un DIOS 🌟🧙♂️
+________________________________________
+
+Descripción del Video 🎬
+🔥 ¿Quieres DOMINAR Angular, TypeScript y VS Code como un PROFESIONAL? En este video revelo 14 EXTENSIONES PODEROSÍSIMAS que te harán escribir código 3x más rápido , eliminar errores ANTES de compilar y automatizar tareas como un auténtico NINJA DEVELOPER .
+🌟 Aprenderás:
+✅ Cómo generar componentes Angular en SEGUNDOS.
+✅ Trucos para importar módulos con un solo CLICK.
+✅ Secretos para depurar errores con COLORES y MENSAJES CLAROS.
+✅ Y mucho más...
+⚠️ ¡No te lo pierdas! Estas herramientas son un MUST-HAVE para freelancers, juniors y seniors.
+👇 ¡Suscríbete y activa la campanita 🔔 para no perderte el próximo TUTORIAL!
+________________________________________
+
+vscode extensions, angular tips, typescript tricks, desarrollo web, productividad developer, vs code angular, tailwind css, debugging, herramientas programación, angular language service, auto import, error lens, snippets angular, vscode productivity, programación eficiente
+________________________________________
+10 Preguntas para Generar Engagement ❓
+1.	¿Cómo mejorar la productividad en Angular con VS Code? ¡Estas extensiones son la CLAVE!
+2.	¿Sabías que puedes GENERAR componentes Angular en 5 SEGUNDOS? Angular Schematics lo hace posible 🔥
+3.	¿Cómo evitar ERRORES en templates de Angular ANTES de compilar? Angular Language Service lo resuelve 💥
+4.	¿Quieres escribir CSS como un MAGO? Tailwind CSS IntelliSense te lo pone FACILÍSIMO 🎨
+5.	¿Cómo importar módulos de TypeScript SIN perder tiempo? TypeScript Importer es tu MEJOR ALIADO 📦
+6.	¿Odias los errores crípticos? Pretty TypeScript Errors los convierte en MENSAJES CLAROS 🧠
+7.	¿Qué extensiones usan los PROS para DOMINAR VS Code? ¡Descubre sus SECRETOS! 🛠️
+8.	¿Cómo convertir JSON en INTERFACES de TypeScript en 2 CLICS? Paste JSON as Code lo hace REALIDAD 📋
+9.	¿Quieres que VS Code CIERRE tus etiquetas HTML automáticamente? Auto Close Tag es un MUST 🔒
+10.	¿Cómo destacar COMENTARIOS importantes en tu código? Better Comments te salvará la vida 💬
+
+
+
+
+
+
+
+ 
+Canculo del área de un rectángulo de cero a pro
+¡DESCUBRE el SECRETO para Calcular Áreas en Python EN menos de 10 minutos! 🕒🐍
+¿Cómo Hacer que Python Trabaje POR TI? 🧠💻 El Código que TODO Programador Debe Saber
+¡IMPRESIONANTE! Cómo Crear un Programa que Calcule Áreas SIN ERRORES 🚫💥
+¡ALERTA! Este Código de Python te Dejará SIN PALABRAS… 🤯 (Explicación Paso a Paso)
+¿Quieres DOMINAR Python? 🐍✨ Empieza con ESTE Código para Calcular Áreas como un PRO
+
+🌟 ¡Bienvenidos, programadores curiosos! 🌟
+En este video revelamos EL CÓDIGO MÁS SIMPLE para calcular el área de un rectángulo en Python 📐🐍. ¡Aprenderás:
+✅ Cómo crear un programa desde cero.
+✅ Trucos para evitar errores comunes.
+✅ Cómo personalizar el código para otras figuras geométricas.
+💡 ¡IDEAL para principiantes! No necesitas experiencia previa.
+🎵 ¡SUSCRÍBETE y activa la campanita 🔔 para no perderte más secretos de programación!
+
+Python para principiantes, Código Python área rectángulo, Programación básica, Tutorial Python, Cómo calcular áreas, Python ejemplos, Clases y funciones en Python, Errores comunes Python, Matemáticas con Python, Código abierto Python
+________________________________________
+❓ 10 Preguntas que Responderán los Lectores
+1.	"¿Cómo calcular el área de un rectángulo en Python sin complicaciones?" 🐍📐
+2.	"¿Qué función usar en Python para multiplicar dos variables?" ✖️🔢
+3.	"¿Cómo evitar errores de tipo al ingresar datos en Python?" ❌⌨️
+4.	"¿Es posible usar clases en Python para cálculos geométricos?" 📚CppClass
+5.	"¿Qué ventaja tiene usar POO en este código?" 🔄💎
+6.	"¿Cómo validar que el usuario ingrese números y no letras?" 🔍📝
+7.	"¿Qué otros proyectos puedo hacer con este código base?" 🚀💡
+8.	"¿Cómo añadir subtítulos a mi video de Python en YouTube?" 🎥📝 
+9.	"¿Qué música de fondo recomiendan para tutoriales de programación?" 🎶💻 
+10.	"¿Cómo posicionar mi video usando keywords de Python?" 📈🔍 
+ 
+Numero par o impar
+¡EL CÓDIGO MÁGICO para Saber si un Número es Par o Impar en menos de 10 minutos! 🔢🐍 
+¿Eres PRINCIPIANTE en Python? 🧠 Este Código te HARÁ un EXPERTO en 10 MINUTOS!
+¡ALERTA! Cómo Detectar Números Pares/Impares SIN ERRORES 🚫💥 (Incluso para Decimales)
+¿Qué Hace Este Código SECRETO de Python? 🤫 La Respuesta te SORPRENDERÁ…
+¡DOMINA Python desde CERO! 📈 El Programa que TODO el Mundo Está Pidiendo
+
+🌟 ¡Hola, futuros Python Masters! 🌟
+En este video revelamos EL MEJOR CÓDIGO para determinar si un número es par o impar en Python 🧮🐍. Aprenderás:
+✅ Cómo usar el operador módulo % como un PRO.
+✅ Trucos para manejar números decimales y evitar errores.
+✅ Cómo escalar de principiante a experto con validaciones AVANZADAS.
+💡 ¡IDEAL para todos los niveles! Desde cero hasta estrategias profesionales.
+🎵 ¡SUSCRÍBETE y activa la 🔔 para más secretos de Python!
+
+Python par o impar, Código Python principiantes, Programación básica, Operador módulo Python, Validar números Python, Python ejemplos, Cómo aprender Python, Errores comunes Python, Números decimales Python, Código abierto Python
+________________________________________
+❓ 10 Preguntas que Responderán los Lectores
+1.	"¿Cómo saber si un número es par en Python SIN complicarte?" 🐍🔢 
+2.	"¿Qué es el operador % y por qué es CLAVE para este código?" ✖️🔑
+3.	"¿Cómo validar números decimales en Python ANTES de calcular?" ❌⌨️ 
+4.	"¿Es posible usar este código para números PRIMOS?" 🔢💎 
+5.	"¿Qué ventaja tiene usar funciones en este programa?" 🔄🚀
+6.	"¿Cómo evitar errores si el usuario ingresa texto en vez de números?" 🔍📝 
+7.	"¿Qué proyectos puedo crear con esta base de código?" 🧠💡
+8.	"¿Cómo posicionar mi video usando keywords de Python en YouTube?" 📈🔍 
+9.	"¿Qué música de fondo usar para tutoriales de programación?" 🎶💻 
+10.	"¿Cómo convertir este código en una APP profesional?" 📱🐍
+ 
+El calculo de IMC
+¡EL CÓDIGO que CALCULA tu IMC en 10 SEGUNDOS! 🩺🐍 (Aprende Python desde CERO)
+¿Cómo SABER si Tienes SOBREPESO con Python? 📊💥 El Programa que TODO el Mundo Busca
+¡ALERTA! Cómo Crear una APP de IMC SIN ERRORES 🚫 (Incluso para Decimales)
+¿Qué Hace ESTE Código SECRETO de Python? 🤫 La FORMULA MÁGICA del IMC
+¡DOMINA Python con SALUD! 📈💪 De Principiante a Creador de APPS Profesionales
+
+🌟 ¡Hola, futuros Python Masters de la Salud! 🌟
+En este video revelamos EL CÓDIGO DEFINITIVO para calcular el IMC en Python 🩺🐍. Aprenderás:
+✅ Cómo crear un programa que clasifique el IMC en bajo peso, normal, sobrepeso u obesidad.
+✅ Trucos para manejar números decimales con precisión (ej: 1.75m o 68.5kg) 
+✅ Validaciones AVANZADAS para evitar errores si el usuario ingresa texto en vez de números 
+💡 ¡IDEAL para todos los niveles! Desde cero hasta cómo escalar a una APP profesional.
+🎵 ¡SUSCRÍBETE y activa la 🔔 para más secretos de Python aplicado a la salud!
+
+Python IMC, Código Python salud, Calcular índice masa corporal, Programación para salud, Validar decimales Python, Python principiantes, Errores en Python, APP IMC Python, Código abierto salud, Python salud y fitness
+________________________________________
+❓ 10 Preguntas que Responderán los Lectores
+1.	"¿Cómo calcular el IMC en Python SIN errores de decimales?" 🩺🔢 
+2.	"¿Qué función usar para redondear el IMC a 2 decimales?" 📊✨ 
+3.	"¿Cómo evitar que el programa se caiga si ingreso LETRAS?" ❌⌨️ 
+4.	"¿Es posible añadir colores al resultado (ej: ROJO para obesidad)?" 🎨🔥 
+5.	"¿Qué ventaja tiene usar POO para este código?" 🔄CppClass
+6.	"¿Cómo convertir este código en una APP con interfaz gráfica?" 🖥️🐍 
+7.	"¿Qué proyectos de salud puedo crear con esta base?" 💡🩺
+8.	"¿Cómo posicionar mi video usando keywords de Python y salud?" 📈🔍 
+9.	"¿Qué música de fondo usar para tutoriales de Python SERIOS?" 🎶💻 
+10.	"¿Cómo usar este código para calcular IMC de múltiples usuarios?" 📋👥
+
+
+docstring
+¡DESCUBRE el SECRETO de los DOCSTRINGS en Python! 🤫🐍 (Código MÁGICO para Principiantes)
+¿Cómo DOCUMENTAR tu Código como un PRO? 📝🚀 El TRUCO que TODO Programador Envidia
+¡ALERTA! Cómo USAR Docstrings para que tu Código NUNCA se Rompa 🚫💥 (Ejemplos REALES)
+¿Qué Hace ESTE Código SECRETO de Python? 🧐 La CLAVE para una Documentación PERFECTA
+¡DOMINA Python como un EXPERTO! 📈✨ De Cero a Profesional con DOCSTRINGS y EJEMPLOS
+
+🌟 ¡Hola, futuros Python Masters! 🌟
+En este video revelamos EL SECRETO MEJOR GUARDADO de Python: cómo usar docstrings para documentar tu código como un profesional 📝🐍. Aprenderás:
+✅ Cómo crear docstrings para funciones, clases y módulos.
+✅ Trucos para integrar ejemplos ejecutables con doctest y validar tu código al INSTANTE 
+✅ Cómo generar documentación automática con herramientas como Sphinx 🔄.
+💡 ¡IDEAL para todos los niveles! Desde principiantes hasta programadores avanzados.
+🎵 ¡SUSCRÍBETE y activa la 🔔 para más secretos de Python profesional!
+
+Python docstring, Documentación en Python, Docstrings ejemplos, Código profesional Python, Doctest Python, Programación avanzada, Cómo documentar código, Errores comunes Python, Código abierto Python, Python para expertos
+________________________________________
+❓ 10 Preguntas que Responderán los Lectores
+1.	"¿Cómo escribir un docstring para una función en Python SIN errores?" 🐍📝 
+2.	"¿Qué formato usar para docstrings (Google, Numpy, Sphinx)?" 📐✨ 
+3.	"¿Cómo integrar doctest en un docstring para VALIDAR mi código?" 🔄🔍 
+4.	"¿Es posible generar documentación HTML automáticamente con docstrings?" 🌐CppClass 
+5.	"¿Qué ventaja tiene usar docstrings frente a comentarios normales?" 💡CppClass
+6.	"¿Cómo evitar errores si el usuario ignora la documentación?" ❌⌨️ 
+7.	"¿Qué proyectos puedo crear con esta base de código documentado?" 🚀💡 
+8.	"¿Cómo posicionar mi video usando keywords de Python avanzado?" 📈🔍 
+9.	"¿Qué herramientas usar para generar documentación desde docstrings?" 🛠️🐍 
+10.	"¿Cómo enseñar a un equipo a usar docstrings correctamente?" 👥📝
+ 
+doctest
+¡EL SECRETO para Detectar PALÍNDROMOS en Python con TEST AUTOMÁTICO! 🔄🐍 (Código MÁGICO)
+¿Cómo SABER si una Frase es un PALÍNDROMO? 🤯 La FUNCIÓN que TODO Programador Envidia
+¡ALERTA! Cómo Crear un Detector de PALÍNDROMOS SIN ERRORES 🚫 (Con Doctest INTEGRADO)
+¿Qué Hace ESTE Código SECRETO de Python? 🤫 La CLAVE de la Documentación PROFESIONAL
+¡DOMINA Python como un PRO! 📈✨ De Cero a Experto con Docstrings y Tests AUTOMATIZADOS
+
+🌟 ¡Hola, amantes de Python! 🌟
+En este video revelamos EL CÓDIGO DEFINITIVO para detectar palíndromos en Python 🔄🐍, usando docstrings para documentación profesional y doctest para tests automáticos. Aprenderás:
+✅ Cómo crear una función que ignore espacios y mayúsculas/minúsculas.
+✅ Trucos para integrar doctest y validar el código al INSTANTE.
+✅ Cómo escalar de principiante a experto con ejemplos PRÁCTICOS 
+💡 ¡IDEAL para todos los niveles! Desde cero hasta tests profesionales.
+🎵 ¡SUSCRÍBETE y activa la 🔔 para más secretos de Python avanzado!
+
+Python palíndromo, Docstrings en Python, Doctest ejemplos, Código Python principiantes, Tests automáticos Python, Funciones Python, Programación avanzada, Errores comunes Python, Código abierto Python, Python para expertos
+________________________________________
+❓ 10 Preguntas que Responderán los Lectores
+1.	"¿Cómo detectar palíndromos en Python IGNORANDO espacios y mayúsculas?" 🔄🔤 
+2.	"¿Qué son los docstrings y por qué son CLAVE para documentar código?" 📝✨ 
+3.	"¿Cómo usar doctest para VALIDAR funciones al instante?" 🔄🔍 
+4.	"¿Es posible integrar este código con frameworks como Pytest?" 🧪🐍 
+5.	"¿Qué ventaja tiene usar doctest frente a otros métodos de testing?" 📊CppClass
+6.	"¿Cómo evitar errores si el usuario ingresa caracteres especiales?" ❌⌨️ 
+7.	"¿Qué proyectos puedo crear con esta base de código?" 💡🚀 
+8.	"¿Cómo posicionar mi video usando keywords de Python avanzado?" 📈🔍 
+9.	"¿Qué música de fondo usar para tutoriales técnicos SERIOS?" 🎶💻 
+10.	"¿Cómo optimizar este código para frases en múltiples idiomas?" 🌍🔤
+
